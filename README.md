@@ -21,7 +21,7 @@ and then paste the following
 	fetch="https://github.com/" />
 
 <project path="device/motorola/corfur"
-	name="moto-corfur/twrp_device_motorola_corfur_"
+	name="victorlima-legendary/twrp_device_motorola_corfur_"
 	remote="github"
 	revision="android-12.1" />
 </manifest>
